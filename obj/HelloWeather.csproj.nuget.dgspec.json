@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\myproj\\HelloWeather\\HelloWeather.csproj": {}
+  },
+  "projects": {
+    "C:\\myproj\\HelloWeather\\HelloWeather.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\myproj\\HelloWeather\\HelloWeather.csproj",
+        "projectName": "HelloWeather",
+        "projectPath": "C:\\myproj\\HelloWeather\\HelloWeather.csproj",
+        "packagesPath": "C:\\Users\\LPT_Spare\\.nuget\\packages\\",
+        "outputPath": "C:\\myproj\\HelloWeather\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LPT_Spare\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[6.0.0-preview1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
