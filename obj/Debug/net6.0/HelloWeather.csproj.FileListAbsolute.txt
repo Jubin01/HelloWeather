@@ -23,3 +23,6 @@ C:\myproj\HelloWeather\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
 C:\myproj\HelloWeather\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\myproj\HelloWeather\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\myproj\HelloWeather\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\myproj\HelloWeather\bin\Debug\net6.0\NLog.dll
+C:\myproj\HelloWeather\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\myproj\HelloWeather\bin\Debug\net6.0\NLog.Extensions.Logging.dll
